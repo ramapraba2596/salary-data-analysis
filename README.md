@@ -57,3 +57,6 @@ This project focuses on analyzing job roles and salary data using data visualiza
 
 ## 🚀 Conclusion
 This project helps understand job market trends and salary insights using simple visualizations. It is useful for students and job seekers to make better career decisions.
+
+ 👩‍💻 Author  
+K. Ramapraba
