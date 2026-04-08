@@ -14,7 +14,7 @@ This project focuses on analyzing job roles and salary data using data visualiza
 
 ## 🔹 Top Job Roles
 <p align="center">
-  <img src="Top%20Job%20Roles.jpeg" width="500"/>
+  <img src="top_job_roles.jpeg" width="500"/>
 </p>
 
 ## 🔹 Job Role Distribution
